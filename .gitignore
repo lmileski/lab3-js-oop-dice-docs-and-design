@@ -1,3 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+# Node Modules
+node_modules/
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+# Documentation build output (for future)
+docs/api/
+docs/generated/
+# Local environment files
+.env
+.env.local
+
 # Logs
 logs
 *.log
